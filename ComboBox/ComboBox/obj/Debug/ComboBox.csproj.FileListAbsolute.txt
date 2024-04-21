@@ -1,0 +1,22 @@
+D:\ACP\WindowsForm\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+D:\ACP\WindowsForm\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+D:\ACP\WindowsForm\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+D:\ACP\WindowsForm\ComboBox\ComboBox\obj\Debug\ComboBox.pdb
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\USER\Downloads\c# windows applications\ComboBox\ComboBox\obj\Debug\ComboBox.pdb
